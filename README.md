@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/sveltekit-and-scss-solution-lDlP6Gwb80)
+- Live Site URL: [Live site](https://qr-code-component-sveltekit.vercel.app/)
 
 ## My process
 
@@ -40,7 +40,7 @@ This project was relatively easy to complete. I didn't learnt much but I learnt 
 
 - Website - [mrinmoy.is-a.dev](https://mrinmoy.is-a.dev)
 - Frontend Mentor - [@MrinmoyHaloi](https://www.frontendmentor.io/profile/MrinmoyHaloi)
-- Twitter - [@_mrinmoy_haloi_](https://www.twitter.com/_mrinmoy_haloi_)
+- Twitter - [@\_mrinmoy_haloi\_](https://www.twitter.com/_mrinmoy_haloi_)
 
 
 ## Developing
